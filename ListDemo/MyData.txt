@@ -1,0 +1,6 @@
+#Laptop
+#Mon Nov 09 17:58:56 GMT-06:00 2020
+Brand=Dell
+Processor=i7
+OS=Windows10
+Model=Latitude
