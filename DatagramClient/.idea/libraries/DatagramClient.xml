@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DatagramClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DatagramClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
